@@ -1,0 +1,309 @@
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\ss3project.exe.config
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\OpenCvSharpExtern.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\msvcp120.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\msvcr120.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_calib3d2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_contrib2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_core2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_features2d2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_ffmpeg2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_flann2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_gpu2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_highgui2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_imgproc2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_legacy2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_ml2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_nonfree2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_objdetect2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_ocl2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_photo2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_stitching2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_superres2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_video2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x86\opencv_videostab2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\msvcp120.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\msvcr120.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_calib3d2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_contrib2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_core2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_features2d2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_flann2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_gpu2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_highgui2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_imgproc2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_legacy2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_ml2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_nonfree2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_objdetect2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_ocl2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_photo2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_stitching2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_superres2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_video2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\opencv_videostab2410.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\dll\x64\OpenCvSharpExtern.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\OpenCvSharp.xml
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\OpenCvSharp.CPlusPlus.xml
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\OpenCvSharp.Extensions.xml
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\obj\x86\Debug\ss3project.csprojResolveAssemblyReference.cache
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\obj\x86\Debug\ss3project.mydlg.resources
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\obj\x86\Debug\ss3project.prototype.resources
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\obj\x86\Debug\ss3project.Properties.Resources.resources
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\obj\x86\Debug\ss3project.csproj.GenerateResource.Cache
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\obj\x86\Debug\ss3project.exe
+c:\users\choi\documents\visual studio 2015\Projects\ss3project\ss3project\obj\x86\Debug\ss3project.pdb
+C:\Users\Choi\Documents\Visual Studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\ss3project.exe
+C:\Users\Choi\Documents\Visual Studio 2015\Projects\ss3project\ss3project\bin\x86\Debug\ss3project.pdb
+C:\Users\Choi\Documents\Visual Studio 2015\Projects\ss3project\ss3project\obj\x86\Debug\ss3project.mydlg2.resources
+C:\Users\Choi\Documents\Visual Studio 2015\Projects\ss3project\ss3project\obj\x86\Debug\ss3project.mydlg3.resources
+C:\Users\Choi\Documents\Visual Studio 2015\Projects\ss3project\ss3project\obj\x86\Debug\ss3project.mydlg4.resources
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\ss3project.exe.config
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\obj\x86\Debug\ss3project.exe
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\obj\x86\Debug\ss3project.pdb
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\msvcp120.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\msvcr120.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_core2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_video2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\msvcp120.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\msvcr120.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_core2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_video2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\ss3project.exe
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\ss3project.pdb
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\OpenCvSharp.xml
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\bin\x86\Debug\OpenCvSharp.Extensions.xml
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\obj\x86\Debug\ss3project.csprojResolveAssemblyReference.cache
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\obj\x86\Debug\ss3project.mydlg.resources
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\obj\x86\Debug\ss3project.mydlg2.resources
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\obj\x86\Debug\ss3project.mydlg3.resources
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\obj\x86\Debug\ss3project.mydlg4.resources
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\obj\x86\Debug\ss3project.prototype.resources
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\obj\x86\Debug\ss3project.Properties.Resources.resources
+C:\Users\이찬재\Desktop\ss3project (1)\ss3project\obj\x86\Debug\ss3project.csproj.GenerateResource.Cache
+D:\ss3project (1)\ss3project\bin\x86\Debug\ss3project.exe.config
+D:\ss3project (1)\ss3project\obj\x86\Debug\ss3project.exe
+D:\ss3project (1)\ss3project\obj\x86\Debug\ss3project.pdb
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\msvcp120.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\msvcr120.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_calib3d2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_contrib2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_core2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_features2d2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_ffmpeg2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_flann2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_gpu2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_highgui2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_imgproc2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_legacy2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_ml2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_nonfree2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_objdetect2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_ocl2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_photo2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_stitching2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_superres2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_video2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_videostab2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\msvcp120.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\msvcr120.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_calib3d2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_contrib2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_core2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_features2d2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_flann2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_gpu2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_highgui2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_imgproc2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_legacy2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_ml2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_nonfree2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_objdetect2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_ocl2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_photo2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_stitching2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_superres2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_video2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_videostab2410.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\ss3project.exe
+D:\ss3project (1)\ss3project\bin\x86\Debug\ss3project.pdb
+D:\ss3project (1)\ss3project\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll
+D:\ss3project (1)\ss3project\bin\x86\Debug\OpenCvSharp.xml
+D:\ss3project (1)\ss3project\bin\x86\Debug\OpenCvSharp.CPlusPlus.xml
+D:\ss3project (1)\ss3project\bin\x86\Debug\OpenCvSharp.Extensions.xml
+D:\ss3project (1)\ss3project\obj\x86\Debug\ss3project.csprojResolveAssemblyReference.cache
+D:\ss3project (1)\ss3project\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+D:\ss3project (1)\ss3project\obj\x86\Debug\ss3project.mydlg.resources
+D:\ss3project (1)\ss3project\obj\x86\Debug\ss3project.mydlg2.resources
+D:\ss3project (1)\ss3project\obj\x86\Debug\ss3project.mydlg3.resources
+D:\ss3project (1)\ss3project\obj\x86\Debug\ss3project.mydlg4.resources
+D:\ss3project (1)\ss3project\obj\x86\Debug\ss3project.prototype.resources
+D:\ss3project (1)\ss3project\obj\x86\Debug\ss3project.Properties.Resources.resources
+D:\ss3project (1)\ss3project\obj\x86\Debug\ss3project.csproj.GenerateResource.Cache
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\ss3project.exe.config
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\obj\x86\Debug\ss3project.exe
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\obj\x86\Debug\ss3project.pdb
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\msvcp120.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\msvcr120.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_core2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_video2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\msvcp120.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\msvcr120.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_core2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_video2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\ss3project.exe
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\ss3project.pdb
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\OpenCvSharp.xml
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\bin\x86\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\obj\x86\Debug\ss3project.csprojResolveAssemblyReference.cache
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\obj\x86\Debug\ss3project.mydlg.resources
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\obj\x86\Debug\ss3project.mydlg2.resources
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\obj\x86\Debug\ss3project.mydlg3.resources
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\obj\x86\Debug\ss3project.mydlg4.resources
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\obj\x86\Debug\ss3project.prototype.resources
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\obj\x86\Debug\ss3project.Properties.Resources.resources
+C:\Users\Choi\Desktop\대학\4-1\소프트웨어실습3\ss3project (1)\ss3project\obj\x86\Debug\ss3project.csproj.GenerateResource.Cache
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\msvcp120.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\msvcr120.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_core2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_video2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\msvcp120.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\msvcr120.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_core2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_video2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\ss3project.exe.config
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\ss3project.exe
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\ss3project.pdb
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\OpenCvSharp.xml
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\bin\x86\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\obj\x86\Debug\ss3project.csprojResolveAssemblyReference.cache
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\obj\x86\Debug\ss3project.mydlg.resources
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\obj\x86\Debug\ss3project.mydlg2.resources
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\obj\x86\Debug\ss3project.mydlg3.resources
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\obj\x86\Debug\ss3project.mydlg4.resources
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\obj\x86\Debug\ss3project.prototype.resources
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\obj\x86\Debug\ss3project.Properties.Resources.resources
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\obj\x86\Debug\ss3project.csproj.GenerateResource.Cache
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\obj\x86\Debug\ss3project.exe
+C:\Users\Choi\Documents\GitHub\photosh\ss3project\obj\x86\Debug\ss3project.pdb
